@@ -8,7 +8,7 @@ This application creates a simple calendar application that allows the user to s
 
 The below image demonstrates the application functionality:
 
-![interface](/Develop/Assets/image/interface.PNG)
+![interface](/Assets/image/interface.PNG)
 
 When the user loads the scheduler, the current day and date is displayed:
 
